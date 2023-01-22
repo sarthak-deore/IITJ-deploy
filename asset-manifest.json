@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/IITJ-deploy/static/css/main.3b1d85a5.css",
+    "main.js": "/IITJ-deploy/static/js/main.2c3aae56.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/IITJ-deploy/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/tshirt.png": "/IITJ-deploy/static/media/tshirt.76aa65617a740496e64d.png",
+    "static/media/wt.png": "/IITJ-deploy/static/media/wt.c8d2b1543f2455628c8a.png",
+    "static/media/bag.png": "/IITJ-deploy/static/media/bag.bce13e6685c6d3418056.png",
+    "index.html": "/IITJ-deploy/index.html",
+    "main.3b1d85a5.css.map": "/IITJ-deploy/static/css/main.3b1d85a5.css.map",
+    "main.2c3aae56.js.map": "/IITJ-deploy/static/js/main.2c3aae56.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/IITJ-deploy/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b1d85a5.css",
+    "static/js/main.2c3aae56.js"
+  ]
+}
